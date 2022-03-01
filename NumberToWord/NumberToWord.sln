@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWord", "NumberToWord\NumberToWord.csproj", "{BB730C0B-FB96-491C-9B8C-3533681BB39B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NumberToWord-VB", "NumberToWord-VB\NumberToWord-VB.vbproj", "{13A3AEDE-956F-44BC-8E1D-C02FE0E7A332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB730C0B-FB96-491C-9B8C-3533681BB39B}.Debug|x86.ActiveCfg = Debug|x86
+		{BB730C0B-FB96-491C-9B8C-3533681BB39B}.Debug|x86.Build.0 = Debug|x86
+		{BB730C0B-FB96-491C-9B8C-3533681BB39B}.Release|x86.ActiveCfg = Release|x86
+		{BB730C0B-FB96-491C-9B8C-3533681BB39B}.Release|x86.Build.0 = Release|x86
+		{13A3AEDE-956F-44BC-8E1D-C02FE0E7A332}.Debug|x86.ActiveCfg = Debug|x86
+		{13A3AEDE-956F-44BC-8E1D-C02FE0E7A332}.Debug|x86.Build.0 = Debug|x86
+		{13A3AEDE-956F-44BC-8E1D-C02FE0E7A332}.Release|x86.ActiveCfg = Release|x86
+		{13A3AEDE-956F-44BC-8E1D-C02FE0E7A332}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

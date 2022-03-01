@@ -1,0 +1,19 @@
+D:\Downloads\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+D:\Downloads\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+D:\Downloads\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+D:\Downloads\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csprojResolveAssemblyReference.cache
+D:\Downloads\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Form1.resources
+D:\Downloads\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Properties.Resources.resources
+D:\Downloads\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.GenerateResource.Cache
+D:\Downloads\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.exe
+D:\Downloads\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.pdb
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.exe
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.pdb
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Form1.resources
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Properties.Resources.resources
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord\obj\x86\Debug\GenerateResource.write.1.tlog

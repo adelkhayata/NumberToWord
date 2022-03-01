@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NumberToWord-VB
+</name>
+</assembly>
+<members>
+<member name="P:NumberToWord_VB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:NumberToWord_VB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:NumberToWord_VB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.CurrencyID">
+	<summary>
+ Currency ID
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.CurrencyCode">
+	<summary>
+ Standard Code
+ Syrian Pound: SYP
+ UAE Dirham: AED
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.IsCurrencyNameFeminine">
+	<summary>
+ Is the currency name feminine ( Mua'anath مؤنث)
+ ليرة سورية : مؤنث = true
+ درهم : مذكر = false
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.EnglishCurrencyName">
+	<summary>
+ English Currency Name for single use
+ Syrian Pound
+ UAE Dirham
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.EnglishPluralCurrencyName">
+	<summary>
+ English Plural Currency Name for Numbers over 1
+ Syrian Pounds
+ UAE Dirhams
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic1CurrencyName">
+	<summary>
+ Arabic Currency Name for 1 unit only
+ ليرة سورية
+ درهم إماراتي
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic2CurrencyName">
+	<summary>
+ Arabic Currency Name for 2 units only
+ ليرتان سوريتان
+ درهمان إماراتيان
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic310CurrencyName">
+	<summary>
+ Arabic Currency Name for 3 to 10 units
+ خمس ليرات سورية
+ خمسة دراهم إماراتية
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic1199CurrencyName">
+	<summary>
+ Arabic Currency Name for 11 to 99 units
+ خمس و سبعون ليرةً سوريةً
+ خمسة و سبعون درهماً إماراتياً
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.PartPrecision">
+	<summary>
+ Decimal Part Precision
+ for Syrian Pounds: 2 ( 1 SP = 100 parts)
+ for Tunisian Dinars: 3 ( 1 TND = 1000 parts)
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.IsCurrencyPartNameFeminine">
+	<summary>
+ Is the currency part name feminine ( Mua'anath مؤنث)
+ هللة : مؤنث = true
+ قرش : مذكر = false
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.EnglishCurrencyPartName">
+	<summary>
+ English Currency Part Name for single use
+ Piaster
+ Fils
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.EnglishPluralCurrencyPartName">
+	<summary>
+ English Currency Part Name for Plural
+ Piasters
+ Fils
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic1CurrencyPartName">
+	<summary>
+ Arabic Currency Part Name for 1 unit only
+ قرش
+ هللة
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic2CurrencyPartName">
+	<summary>
+ Arabic Currency Part Name for 2 unit only
+ قرشان
+ هللتان
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic310CurrencyPartName">
+	<summary>
+ Arabic Currency Part Name for 3 to 10 units
+ قروش
+ هللات
+ </summary>
+</member><member name="P:NumberToWord_VB.CurrencyInfo.Arabic1199CurrencyPartName">
+	<summary>
+ Arabic Currency Part Name for 11 to 99 units
+ قرشاً
+ هللةً
+ </summary>
+</member><member name="F:NumberToWord_VB.ToWord._intergerValue">
+	<summary>
+ integer part
+ </summary>
+</member><member name="F:NumberToWord_VB.ToWord._decimalValue">
+	<summary>
+ Decimal Part
+ </summary>
+</member><member name="P:NumberToWord_VB.ToWord.Number">
+	<summary>
+ Number to be converted
+ </summary>
+</member><member name="P:NumberToWord_VB.ToWord.Currency">
+	<summary>
+ Currency to use
+ </summary>
+</member><member name="P:NumberToWord_VB.ToWord.EnglishPrefixText">
+	<summary>
+ English text to be placed before the generated text
+ </summary>
+</member><member name="P:NumberToWord_VB.ToWord.EnglishSuffixText">
+	<summary>
+ English text to be placed after the generated text
+ </summary>
+</member><member name="P:NumberToWord_VB.ToWord.ArabicPrefixText">
+	<summary>
+ Arabic text to be placed before the generated text
+ </summary>
+</member><member name="P:NumberToWord_VB.ToWord.ArabicSuffixText">
+	<summary>
+ Arabic text to be placed after the generated text
+ </summary>
+</member><member name="M:NumberToWord_VB.ToWord.#ctor(System.Decimal,NumberToWord_VB.CurrencyInfo)">
+	<summary>
+ Constructor: short version
+ </summary>
+	<param name="number">Number to be converted</param>
+	<param name="currency">Currency to use</param>
+</member><member name="M:NumberToWord_VB.ToWord.#ctor(System.Decimal,NumberToWord_VB.CurrencyInfo,System.String,System.String,System.String,System.String)">
+	<summary>
+ Constructor: Full Version
+ </summary>
+	<param name="number">Number to be converted</param>
+	<param name="currency">Currency to use</param>
+	<param name="englishPrefixText">English text to be placed before the generated text</param>
+	<param name="englishSuffixText">English text to be placed after the generated text</param>
+	<param name="arabicPrefixText">Arabic text to be placed before the generated text</param>
+	<param name="arabicSuffixText">Arabic text to be placed after the generated text</param>
+</member><member name="M:NumberToWord_VB.ToWord.GetDecimalValue(System.String)">
+	<summary>
+ Get Proper Decimal Value
+ </summary>
+	<param name="decimalPart">Decimal Part as a String</param>
+	<returns></returns>
+</member><member name="M:NumberToWord_VB.ToWord.ExtractIntegerAndDecimalParts">
+	<summary>
+ Eextract Interger and Decimal parts
+ </summary>
+</member><member name="M:NumberToWord_VB.ToWord.ProcessGroup(System.Int32)">
+	<summary>
+ Process a group of 3 digits
+ </summary>
+	<param name="groupNumber">The group number to process</param>
+	<returns></returns>
+</member><member name="M:NumberToWord_VB.ToWord.ConvertToEnglish">
+	<summary>
+ Convert stored number to words using selected currency
+ </summary>
+	<returns></returns>
+</member><member name="M:NumberToWord_VB.ToWord.GetDigitFeminineStatus(System.Int32,System.Int32)">
+	<summary>
+ Get Feminine Status of one digit
+ </summary>
+	<param name="digit">The Digit to check its Feminine status</param>
+	<param name="groupLevel">Group Level</param>
+	<returns></returns>
+</member><member name="M:NumberToWord_VB.ToWord.ProcessArabicGroup(System.Int32,System.Int32,System.Decimal)">
+	<summary>
+ Process a group of 3 digits
+ </summary>
+	<param name="groupNumber">The group number to process</param>
+	<returns></returns>
+</member><member name="M:NumberToWord_VB.ToWord.ConvertToArabic">
+	<summary>
+ Convert stored number to words using selected currency
+ </summary>
+	<returns></returns>
+</member>
+</members>
+</doc>

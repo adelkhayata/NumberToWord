@@ -1,0 +1,21 @@
+D:\Downloads\NumberToWord\NumberToWord-VB\bin\Debug\NumberToWord-VB.exe
+D:\Downloads\NumberToWord\NumberToWord-VB\bin\Debug\NumberToWord-VB.pdb
+D:\Downloads\NumberToWord\NumberToWord-VB\bin\Debug\NumberToWord-VB.xml
+D:\Downloads\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.vbprojResolveAssemblyReference.cache
+D:\Downloads\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord_VB.Form1.resources
+D:\Downloads\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord_VB.Resources.resources
+D:\Downloads\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.vbproj.GenerateResource.Cache
+D:\Downloads\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.exe
+D:\Downloads\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.xml
+D:\Downloads\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.pdb
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\bin\Debug\NumberToWord-VB.exe
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\bin\Debug\NumberToWord-VB.pdb
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\bin\Debug\NumberToWord-VB.xml
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord_VB.Form1.resources
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord_VB.Resources.resources
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.exe
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.xml
+D:\Data\Personal\My Blog\Articles\Published\2 - تفقيط الأرقام\NumberToWord\NumberToWord-VB\obj\x86\Debug\NumberToWord-VB.pdb
